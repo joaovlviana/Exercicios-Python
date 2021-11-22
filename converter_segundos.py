@@ -1,3 +1,5 @@
+#Usuário digita a quantidade de segundos que deseja converter e o programa imprime no formato de Dias-Horas-Minutos-Segundos
+
 segundos = input("Insira o número de segundos que quer converter:")
 dias = int(segundos) // 86400   
 segundos_restantes = int(segundos) % 86400
