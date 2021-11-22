@@ -1,3 +1,5 @@
+#Pede que o usuário digite um valor e um dígito e verifica quantas vezes esse dígito está presente no valor, em seguida imprime o resultado
+
 n = int(input("Digite o valor de n: "))
 d = int(input("Digite um dígito [0,9]: "))
 num = n
@@ -8,4 +10,4 @@ while n != 0:
         cont = cont + 1
     n = n // 10
  
-print(d,"ocorre",cont,"vezes em",num)
+print(f"{d} ocorre {cont} vezes em {num}")
