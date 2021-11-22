@@ -1,3 +1,5 @@
+#Verifica a quantidade de números ímpares numa lista
+
 lista = [1,2,3,4,5,6]
 qnt_total = len(lista)
 lista_pares = []
