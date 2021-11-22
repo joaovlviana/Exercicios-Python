@@ -1,5 +1,0 @@
-nome = input("Insira seu nome:")
-idade = input("Insira a sua idade:")
-hobby = input("Informe seu hobby:")
-comida = input("Sua comida favorita:")
-print(nome,'\n',idade,'\n',hobby,'\n',comida)
