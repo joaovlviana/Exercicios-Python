@@ -1,3 +1,5 @@
+#função que recebe três número e imprime o maior
+
 def maior_numero(a,b,c):
     maior = a
     if b > maior:
