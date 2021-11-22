@@ -1,3 +1,5 @@
+#Função que retorna o fatorial do número inserido peli usuário
+
 def main() :
     num = int(input("Insira o número que deseja o fatorial:"))
     fat = 1
