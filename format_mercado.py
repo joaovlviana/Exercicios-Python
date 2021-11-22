@@ -1,3 +1,5 @@
+#Exemplo de uso do format
+
 item = input("Insira o item: ")
 preco = float(input("Insira o preço do produto: "))
 quantidade = int(input("Insira a quantidade: "))
