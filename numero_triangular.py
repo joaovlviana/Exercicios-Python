@@ -1,3 +1,4 @@
+#Verifica se o número é triangular (produto entre três números inteiros consecutivos)
 n = int(input("Digite o valor de n: "))
 
 i = 1
