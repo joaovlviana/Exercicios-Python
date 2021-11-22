@@ -1,3 +1,5 @@
+#Esse programa recebe um número n e imprime os primeiros n números ímpares 
+
 n = int(input("Insira um número inteiro: "))
 
 i = 1
