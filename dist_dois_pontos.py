@@ -1,3 +1,5 @@
+#Verifica a distância entre dois pontos de um plano cartesiano
+
 import math
 
 x1 = float(input("Insira o valor de x1:"))
@@ -7,7 +9,7 @@ y2 = float(input("Insira o valor de y2:"))
 
 dist = math.sqrt((x1-x2)**2 +(y1-y2)**2)
 if dist >= 10:
-    print("longe")
+    print(f"longe: {dist}")
 else:
-    print("perto")
+    print(f"perto:{dist}")
     
