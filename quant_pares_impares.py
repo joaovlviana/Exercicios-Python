@@ -1,3 +1,5 @@
+#Pede que o usuário insira a quantidade de números da sequência, depois insira os números e imprime a quantidade de números pares e ímpares na sequência digitada
+
 n = int(input("Insira o número de algarismos da sequência:"))
 
 i = 1
