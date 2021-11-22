@@ -1,3 +1,5 @@
+#Calcula a média dos números de uma lista
+
 tamanho = int(input("Insira o tamanho da amostra:"))
 
 i = 0
