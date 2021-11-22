@@ -1,3 +1,5 @@
+#Adicionando itens em uma lista
+
 lista1 = []
 lista1.extend("AEIOU")
 print(lista1)
