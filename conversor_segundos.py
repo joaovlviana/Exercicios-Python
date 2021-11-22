@@ -1,3 +1,4 @@
+#Converte a quantidade de segundos inserida pelo usuário em Dias-Horas-Minutos-Segundos
 segundos_str = input("Insira o número de segundos que deseja converter: ")
 total_segs = int(segundos_str)
 
