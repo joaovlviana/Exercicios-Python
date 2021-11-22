@@ -1,3 +1,4 @@
+#Função que recebe um número e retorna se é positivo ou negativo
 def positivo_ou_negativo(num):
     if num >= 0:
         num = "positivo"
