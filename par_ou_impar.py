@@ -1,3 +1,5 @@
+#Pede que o usuário insira um número e imprime se é par/ímpar e positivo/negativo
+
 n = int(input("Insira o número:"))
 
 if n % 2 == 0 and n >= 0:
