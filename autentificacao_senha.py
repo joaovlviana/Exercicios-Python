@@ -1,3 +1,5 @@
+#Verifica se a senha foi digitada corretamente e retorna o resultado
+
 senha = "12345"
 login = input("Insira a senha: ")
 
