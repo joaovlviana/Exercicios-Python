@@ -1,3 +1,6 @@
+#Programa pede que o usuário insira um número e verifica se possui dígitos adjacentes iguais
+#Foi pedido que o programa fosse realizado utilizando while e funções booleanas
+
 numero = int(input("Insira um número: "))
 tamanho = len(str(numero))
 
