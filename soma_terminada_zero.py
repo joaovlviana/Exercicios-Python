@@ -1,3 +1,5 @@
+#Pede que o usuário digite uma sequencia de valores e retorna a soma
+
 print("Digite uma sequência de valores terminada em zero. ")
 soma = 0
 
