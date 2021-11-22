@@ -1,3 +1,5 @@
+#Pede para o usuário inserir três números e depois imprime se foi feito em ordem crescente ou não
+
 num1 = int(input("Insira um número inteiro:"))
 num2 = int(input("Insira um número inteiro:"))
 num3 = int(input("Insira um número inteiro:"))
