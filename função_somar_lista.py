@@ -1,3 +1,4 @@
+#Função que retorna a soma de uma lista
 def somar_lista(numeros):
     soma = 0
     for i in numeros:
