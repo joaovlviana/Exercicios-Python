@@ -1,3 +1,5 @@
+#Função criada para inverter uma palavra inserida pelo usuário
+
 def texto_invertido(txt):
     return txt[::-1]
 
