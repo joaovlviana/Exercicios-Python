@@ -1,3 +1,6 @@
+#Verifica se um número inserido é primo ou não primo
+
+
 n = int(input("Digite um número inteiro: "))
 
 i = 2
