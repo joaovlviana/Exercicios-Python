@@ -1,0 +1,1 @@
+print(f"Olá {input('Insira o seu nome: ').capitalize()}.\nSeja bem vindo a Digital House!")

@@ -1,0 +1,10 @@
+lista1 = list(range(1,4))
+lista2 = list(range(-5,2))
+lista3 = list(range(3,0,-1))
+lista4 = list(range(11,8,-1))
+lista5 = list(range(-1,2))
+lista6 = list(range(9,12))
+lista7 = list()
+lista8 = list(range(0,1))
+
+print(lista1, lista2, lista3, lista4, lista5, lista6, lista7, lista8)
